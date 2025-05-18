@@ -21,7 +21,7 @@ Para rodar esta maravilha, você vai precisar:
 
 ## Como Usar a Varinha Mágica (O Código) ✨
 
-1.  **Clone este repositório (ou abra o notebook diretamente no Colab, se aplicável).**
+1.  **Clone este repositório ou abra o notebook diretamente no Colab https://colab.research.google.com/drive/1MF5vFRTqerVZwa7xjQ9EHbmUm1deZ9Di?usp=sharing**
 2.  **Abra o notebook (.ipynb).**
 3.  **Certifique-se de que sua chave de API está configurada como segredo no Colab.**
 4.  **Execute as células do notebook.**
