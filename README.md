@@ -2,7 +2,7 @@
 
 ## Cansado de histórias chatas na hora de dormir? 😴
 
-Prepare-se para liberar a imaginação com este incrível aplicativo que **cria histórias infantis super curtas e engraçadas** a partir de um personagem que você inventa! Mas a mágica não para por aí... ele também **gera uma imagem vibrante** para acompanhar a história!
+Use o poder da IA Generativa Gemini para **criar histórias infantis super curtas e engraçadas** a partir de um personagem que você inventa! Mas a mágica não para por aí... ele também **gera uma imagem vibrante** para acompanhar a história!
 
 ## Como a mágica acontece? 🧙‍♂️
 
@@ -30,20 +30,23 @@ Para rodar esta maravilha, você vai precisar:
 
 ## Exemplo de Encantamento ✨
 
-**Você digita:** "Um pinguim que ama dançar"
+**Você digita:** "Xícara"
 
 **A mágica acontece:**
+![xícara](https://github.com/user-attachments/assets/237d409b-6f90-4a00-8bdb-a9409e9b297b)
 
-(Aqui você pode inserir um exemplo de história gerada e, se possível, uma miniatura ou link para a imagem gerada)
+Era uma vez, uma xícara chamada Tilápia que amava chá de camomila. Um dia, Tilápia estava tão ansiosa para o chá da noite que tentou pular da prateleira. PLUFT! Caiu direto dentro de um açucareiro gigante. Imaginem só, uma xícara coberta de açúcar da cabeça aos pés! Ela parecia um donut gigante e brilhante. A risada foi tanta, que o bule de chá quase rachou!
 
-## Contribua para a Magia! 🤝
+https://github.com/user-attachments/assets/9c9486aa-2ef3-4f48-8410-30d9a4a989d5
 
-Encontrou um bug? Tem uma ideia brilhante para um novo agente ou funcionalidade? Sinta-se à vontade para abrir uma issue ou enviar um pull request! Toda ajuda é bem-vinda para tornar este aplicativo ainda mais mágico!
+## Disclaimer:
+Sou absolutamente iniciante com Python e criação de agentes de IA.
+Por isso não tinha conhecimento suficiente para criar uma interface melhor nem tive muito tempo para ir além do que foi ensinado na imerção.
+Porém espero que gostem. Fiquei feliz com este meu pequeno passo na criação de agente de IA.
+
+**Criado com 💖 e IA!**
 
 ## Licença ✨
 
 Este projeto está sob a Licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
 
----
-
-**Criado com 💖 e IA!**
