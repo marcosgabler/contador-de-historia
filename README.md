@@ -33,6 +33,7 @@ Para rodar esta maravilha, você vai precisar:
 **Você digita:** "Xícara"
 
 **A mágica acontece:**
+
 ![xícara](https://github.com/user-attachments/assets/237d409b-6f90-4a00-8bdb-a9409e9b297b)
 
 Era uma vez, uma xícara chamada Tilápia que amava chá de camomila. Um dia, Tilápia estava tão ansiosa para o chá da noite que tentou pular da prateleira. PLUFT! Caiu direto dentro de um açucareiro gigante. Imaginem só, uma xícara coberta de açúcar da cabeça aos pés! Ela parecia um donut gigante e brilhante. A risada foi tanta, que o bule de chá quase rachou!
